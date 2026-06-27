@@ -7,3 +7,4 @@ __pycache__/
 myenv/
 models/*.h5
 uploads/*
+.vercel
