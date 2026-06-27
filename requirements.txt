@@ -1,0 +1,16 @@
+# Core Web Framework (REQUIRED)
+streamlit
+opencv-python
+Pillow
+numpy
+pandas
+# Optional: For model training (install separately if needed)
+# tensorflow
+# keras
+# scikit-learn
+# matplotlib
+# kaggle
+
+# Optional: Model interpretability (for advanced Grad-CAM)
+# tensorflow-addons==0.21.0
+# lime==0.2.142
